@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "まにまに",
+  "base_artist": "r-906",
+  "createdAt": "2025-12-01T09:31:51.456579Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "まにまに",
+      "artist": "r-906",
+      "has_synced": true,
+      "path": "select/01_まにまに_r-906.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "まにまに",
+      "artist": "トミタ栞",
+      "has_synced": false,
+      "path": "select/pl_01_まにまに_トミタ栞.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "まにまに",
+      "artist": "トミタ栞",
+      "has_synced": false,
+      "path": "select/pl_02_まにまに_トミタ栞.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "まにまに",
+      "artist": "トミタ栞",
+      "has_synced": false,
+      "path": "select/pl_03_まにまに_トミタ栞.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "まにまに",
+      "artist": "トミタ栞",
+      "has_synced": false,
+      "path": "select/pl_04_まにまに_トミタ栞.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "まにまに",
+      "artist": "トミタ栞",
+      "has_synced": false,
+      "path": "select/pl_05_まにまに_トミタ栞.txt"
+    }
+  ]
+}
